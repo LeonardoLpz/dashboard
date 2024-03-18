@@ -91,8 +91,8 @@
     "persian": "Persa"
   },
   "menu": {
-    "users":"Usuarios",
-    "projects":"Proyectos",
+    "users": "Usuarios",
+    "projects": "Proyectos",
     "auth": "Autenticación",
     "buttons": "Botones",
     "timelines": "Líneas de tiempo",
@@ -105,7 +105,7 @@
     "login-singup": "Iniciar sesión/Registrarse",
     "404": "Páginas 404",
     "faq": "FAQ",
-    "settings":"Configuración"
+    "settings": "Configuración"
   },
   "messages": {
     "all": "Ver todos los mensajes",
